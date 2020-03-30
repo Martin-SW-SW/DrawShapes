@@ -1,0 +1,11 @@
+C:\c#_code\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.exe
+C:\c#_code\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.deps.json
+C:\c#_code\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.runtimeconfig.json
+C:\c#_code\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.runtimeconfig.dev.json
+C:\c#_code\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.dll
+C:\c#_code\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.pdb
+C:\c#_code\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.csprojAssemblyReference.cache
+C:\c#_code\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.AssemblyInfoInputs.cache
+C:\c#_code\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.AssemblyInfo.cs
+C:\c#_code\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.dll
+C:\c#_code\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.pdb
